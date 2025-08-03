@@ -87,5 +87,10 @@ To train a model on a set of stroke patches:
 ## How It Works
 ![System Overview](images/system.png)
 
+## Credits
+Original Photos: Ian Jaffray (left, Center), Mbdortmund, [GFDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wuppertal-100508-12825-Uferstra%C3%9Fe.jpg) (right).
+
+The U-Net code was adapted from [Pytorch-UNet](https://github.com/milesial/Pytorch-UNet).
+
 ## Contact
 To ask questions or report issues, please open an issue on the issues tracker.
