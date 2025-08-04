@@ -66,7 +66,7 @@ To train a model on a set of stroke patches:
 
     To generate the Wet Brush stroke patches, run:
 
-    ```python create_stroke_patches.py --patch_type wet_brush --gaussian_noise_std 750.0```
+    ```python create_stroke_patches.py --patch_type wet_brush --gaussian_noise_std 500.0```
 
 2. Train the model using a stroke patch set as training data:
 
