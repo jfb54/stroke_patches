@@ -3,6 +3,8 @@ This repository contains the code to reproduce the results in [Stroke Patches: C
 
 See our [NeurIPS 2025 Creative AI Track Poster](poster/stroke_patches_poster.pdf).
 
+Watch our [NeurIPS Creative AI Track Video](https://openreview.net/attachment?id=wiLoIjygWP&name=video_preview_for_artwork).
+
 ![Results 1](images/examples_1.png)
 ![Results 2](images/examples_2.png)
 
