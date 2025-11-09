@@ -1,6 +1,8 @@
 # Stroke Patches: Customizable Artistic Image Styling Using Regression
 This repository contains the code to reproduce the results in [Stroke Patches: Customizable Artistic Image Styling Using Regression](https://openreview.net/pdf?id=wiLoIjygWP).
 
+See our [NeurIPS 2025 Creative AI Track Poster](poster/stroke_patches_poster.pdf).
+
 ![Results 1](images/examples_1.png)
 ![Results 2](images/examples_2.png)
 
